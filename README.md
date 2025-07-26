@@ -1,19 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Anil Kumar
 
-<!--
-🚀 Machine Learning Engineer | Computer Vision & Multimodal AI Specialist
-Building intelligent systems that bridge visual and language understanding for real-world impact
+**Machine Learning Engineer | Computer Vision & Multimodal AI Specialist**
 
-🔍 Problems I’ve Solved:
+## 🔥 My Projects & Solutions
 
-🛒 E-Commerce AI
-• Built a Video Injection System that increased product conversions by 35% by making videos shoppable
-• Developed Visual Search with 28% better accuracy using metric learning and CLIP embeddings
-• Created Fashion Recommendation Engine by fine-tuning LLaMA for personalized styling
+### 🛒 E-Commerce AI Systems
+- 🎬 **Shoppable Video Injection**: Detected/linked fashion products in videos (+35% conversions)
+- 👗 **Visual Similarity Search**: Image-based product retrieval system (28% accuracy boost)
+- 🤖 **Fashion Recommender**: Fine-tuned LLaMA for outfit styling
 
-🎥 Video Intelligence
-• Designed Video Moderation System processing 2M+ clips/day with 98% precision
-• Automated AI Thumbnail Generation that boosted CTR by 22% through attention prediction
-• Implemented Transformer-based Video Classification for content categorization
-
--->
+### 🎥 Video Intelligence
+- 🛡️ **Content Moderation**: Processed 2M+ videos/day (98% accuracy)
+- 🖼️ **AI Thumbnails**: Attention-based selection (+22% CTR)
+- 🏷️ **Video Classification**: Transformer-based content tagging
