@@ -48,7 +48,7 @@ Building scalable ML systems that bridge **computer vision and language understa
 | 🖼️ **AI Thumbnail Generator** | Generates high-engagement thumbnails from video frames using saliency + aesthetics. |
 | 🎥 **Video Classification** | Classifies videos based on topic, activity, or content type using I3D & Transformers. |
 | 🧑‍🦰 **Face Recognition System** | Identifies and clusters faces across frames and videos with tracking and ArcFace embeddings. |
-| 🧠 **Video Retrieval & Similarity Search** | Retrieves similar videos using multimodal embeddings (visual + audio + text). |
+| 🧠 **Video Retrieval & Similarity Search** | Retrieves similar videos using multimodal embeddings (visual + audio). |
 | 🎞️ **Scene & Logo Detection** | Detects brand logos and segments scenes for campaign analysis. |
 | 🔍 **Video Feature Extraction System** | Extracts temporal visual features using I3D, audio features via VGGish, and fuses them. |
 | 🛑 **Content Moderation Pipeline** | Full-stack system for video flagging using detection, OCR, audio, and vision. |
