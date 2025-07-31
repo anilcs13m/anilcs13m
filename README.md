@@ -31,7 +31,7 @@ Building scalable ML systems that bridge **computer vision and language understa
 | Project | Description |
 |--------|-------------|
 | 👗 **AI Stylist (LLaMA Fine-Tuning)** | Outfit generation and completion using fine-tuned LLaMA on fashion datasets. |
-| 🧥 **Clothing Part Detection** | Detects clothing parts like sleeves, collars, and hems using object detection. |
+| 🧥 **Clothing Part Detection** | Detects clothing parts like top, bottum, and full part of clothing using object detection. |
 | 🎬 **Shoppable Video Injection** | Detects fashion items in videos and links them to e-commerce catalogs. |
 | 👗 **Visual Similarity Search** | Uses CLIP-based embeddings to find visually similar items. |
 | 🧠 **Fashion Recommender** | Recommends complementary clothing items using co-occurrence and visual signals. |
