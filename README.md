@@ -17,10 +17,10 @@ Building scalable ML systems that bridge **computer vision and language understa
 ## 🔥 Key Domains
 
 - 🧠 Classification, Detection, Recognition
-- 🖼️ Vision-Language Multimodal Models (e.g., CLIP, LLaMA)
+- 🖼️ Vision-Language Multimodal Models
 - 🎥 Video AI and Audio-Visual Understanding
 - 🧑‍🤝‍🧑 Face Recognition & Clustering
-- 🧵 Self-Supervised Learning & Transformers (MAE, ViT)
+- 🧵 Self-Supervised Learning & Transformers
 
 ---
 
@@ -62,8 +62,8 @@ Building scalable ML systems that bridge **computer vision and language understa
 | Project | Description |
 |--------|-------------|
 | 🗣️ **Audio Classification** | Classifies audio streams using VGGish and temporal modeling. |
-| 🧏 **Text Feature Extraction** | Extracts rich contextual embeddings using transformers (BERT/GPT). |
-| 😊 **Sentiment Analysis** | Detects user sentiment from product reviews and voice interactions. |
+| 🧏 **Text Feature Extraction** | Extracts rich contextual embeddings using BERT-Model. |
+| 😊 **Sentiment Analysis** | Detects user sentiment from product reviews. |
 
 ---
 
